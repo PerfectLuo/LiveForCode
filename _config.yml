@@ -215,8 +215,8 @@ FontIconExtend: ""
 Donate: 
   paypal : ""
   bitcoin: ""
-  alipay : https://cdn.jsdelivr.net/gh/PerfectLuo/LiveForCode@1.1/static/image/donate/alipay.jpg
-  wechat : https://cdn.jsdelivr.net/gh/PerfectLuo/LiveForCode@1.1/static/image/donate/wechat.jpg
+  alipay : https://cdn.jsdelivr.net/gh/PerfectLuo/LiveForCode@1.2/static/image/donate/alipay.jpg
+  wechat : https://cdn.jsdelivr.net/gh/PerfectLuo/LiveForCode@1.2/static/image/donate/wechat.jpg
 
 
 # ---- Code Style ----
