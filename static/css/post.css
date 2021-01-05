@@ -29,7 +29,7 @@ body {
 }
 
 ::-webkit-scrollbar {
-    display: initial
+    /* display: initial */
 }
 
 ::-moz-selection {
